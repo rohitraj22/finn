@@ -1,0 +1,15 @@
+.git
+.next
+node_modules
+**/.env
+**/.env.*
+**/.venv
+**/.cache
+**/.state
+**/__pycache__
+**/.pytest_cache
+*.pdf
+*.tsbuildinfo
+tmp
+docs
+storage

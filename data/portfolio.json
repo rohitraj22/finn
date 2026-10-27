@@ -1,0 +1,167 @@
+{
+  "purchase_date": "2025-10-01",
+  "holdings": [
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries",
+      "sector": "Energy",
+      "size": "Large cap",
+      "quantity": 240,
+      "color": "#6954a3",
+      "initials": "R"
+    },
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services",
+      "sector": "Technology",
+      "size": "Large cap",
+      "quantity": 80,
+      "color": "#427aa3",
+      "initials": "T"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank",
+      "sector": "Financials",
+      "size": "Large cap",
+      "quantity": 200,
+      "color": "#355a96",
+      "initials": "H"
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys",
+      "sector": "Technology",
+      "size": "Large cap",
+      "quantity": 150,
+      "color": "#247b9e",
+      "initials": "I"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank",
+      "sector": "Financials",
+      "size": "Large cap",
+      "quantity": 180,
+      "color": "#b8753e",
+      "initials": "I"
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "name": "Bharti Airtel",
+      "sector": "Telecom",
+      "size": "Large cap",
+      "quantity": 100,
+      "color": "#c56369",
+      "initials": "A"
+    },
+    {
+      "symbol": "LT",
+      "name": "Larsen & Toubro",
+      "sector": "Industrials",
+      "size": "Large cap",
+      "quantity": 55,
+      "color": "#527d9c",
+      "initials": "L"
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "name": "Sun Pharmaceutical",
+      "sector": "Healthcare",
+      "size": "Large cap",
+      "quantity": 90,
+      "color": "#b3844d",
+      "initials": "S"
+    },
+    {
+      "symbol": "TITAN",
+      "name": "Titan Company",
+      "sector": "Consumer",
+      "size": "Large cap",
+      "quantity": 45,
+      "color": "#428f88",
+      "initials": "T"
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki",
+      "sector": "Automobiles",
+      "size": "Large cap",
+      "quantity": 12,
+      "color": "#536f98",
+      "initials": "M"
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "name": "Asian Paints",
+      "sector": "Consumer",
+      "size": "Large cap",
+      "quantity": 45,
+      "color": "#97619c",
+      "initials": "A"
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "name": "Hindustan Unilever",
+      "sector": "Consumer",
+      "size": "Large cap",
+      "quantity": 50,
+      "color": "#5684bd",
+      "initials": "H"
+    },
+    {
+      "symbol": "PERSISTENT",
+      "name": "Persistent Systems",
+      "sector": "Technology",
+      "size": "Mid cap",
+      "quantity": 20,
+      "color": "#c67b4b",
+      "initials": "P"
+    },
+    {
+      "symbol": "APLAPOLLO",
+      "name": "APL Apollo Tubes",
+      "sector": "Industrials",
+      "size": "Mid cap",
+      "quantity": 60,
+      "color": "#579c84",
+      "initials": "A"
+    },
+    {
+      "symbol": "POLYCAB",
+      "name": "Polycab India",
+      "sector": "Industrials",
+      "size": "Mid cap",
+      "quantity": 15,
+      "color": "#b15c66",
+      "initials": "P"
+    },
+    {
+      "symbol": "CDSL",
+      "name": "Central Depository Services",
+      "sector": "Financials",
+      "size": "Mid cap",
+      "quantity": 60,
+      "color": "#64919c",
+      "initials": "C"
+    },
+    {
+      "symbol": "CERA",
+      "name": "Cera Sanitaryware",
+      "sector": "Consumer",
+      "size": "Small cap",
+      "quantity": 10,
+      "color": "#678e73",
+      "initials": "C"
+    },
+    {
+      "symbol": "VSTIND",
+      "name": "VST Industries",
+      "sector": "Consumer",
+      "size": "Small cap",
+      "quantity": 200,
+      "color": "#9b7a56",
+      "initials": "V"
+    }
+  ]
+}

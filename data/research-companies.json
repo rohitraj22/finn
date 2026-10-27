@@ -1,0 +1,23 @@
+{
+  "TCS": {
+    "name": "Tata Consultancy Services",
+    "documents": [
+      {
+        "id": "tcs-ar-2026",
+        "name": "TCS Annual Report 2025–26",
+        "kind": "Annual report",
+        "period": "FY 2025–26",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ad42e748-d73c-4c79-8c52-bcf1b1399bc1.pdf",
+        "discovered_at": "https://www.screener.in/company/TCS/consolidated/"
+      },
+      {
+        "id": "tcs-call-q2-2027",
+        "name": "TCS Q2 FY 2026–27 Earnings Call",
+        "kind": "Earnings-call transcript",
+        "period": "8 October 2026",
+        "url": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_14102026155941_SEInt14102026_signed.pdf",
+        "discovered_at": "https://www.nseindia.com/companies-listing/corporate-filings-announcements"
+      }
+    ]
+  }
+}

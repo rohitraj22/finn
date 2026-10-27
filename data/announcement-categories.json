@@ -1,0 +1,19 @@
+{
+  "results": "Results",
+  "management_change": "Management Changes",
+  "m_and_a": "M&A",
+  "dividend": "Dividends",
+  "capex": "Capex",
+  "fund_raise": "Fundraising",
+  "litigation": "Litigation & Regulation",
+  "insider_trading": "Insider Trading",
+  "earnings_call": "Earnings Calls",
+  "investor_meetings": "Investor Meetings",
+  "credit_rating": "Credit Ratings",
+  "bonus_split": "Bonus & Splits",
+  "press_release": "Press Releases & Business Updates",
+  "postal_ballot": "Postal Ballots",
+  "agm_egm": "AGM / EGM",
+  "pledging": "Pledging",
+  "unclassified": "Other"
+}

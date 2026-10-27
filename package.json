@@ -1,0 +1,31 @@
+{
+  "name": "finn-investment-agent",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build --webpack",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write app components lib docs README.md next.config.ts postcss.config.mjs tsconfig.json package.json",
+    "dev:backend": "backend/.venv/bin/python -m uvicorn backend.main:app --host 127.0.0.1 --port 8000",
+    "test:backend": "backend/.venv/bin/python -m pytest backend/tests -q",
+    "test:market": "node --experimental-strip-types --test lib/market-data.test.ts",
+    "test:announcements": "node --experimental-strip-types --test lib/announcements.test.ts"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "prettier": "^3.9.10",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.9.0"
+  }
+}

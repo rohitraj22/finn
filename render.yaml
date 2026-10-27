@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: finn
+    runtime: docker
+    plan: free
+    region: singapore
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: FINN_RESEARCH_MODEL
+        value: gemini-3.1-flash-lite
+      - key: FINN_GEMINI_DAILY_LIMIT
+        value: "60"
+      - key: FINN_CACHE_DIR
+        value: /app/storage/cache
+      - key: FINN_STATE_DIR
+        value: /app/storage/state
