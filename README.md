@@ -2,6 +2,8 @@
 
 A mobile-first Next.js / React / TypeScript frontend with a Python FastAPI backend for an 18-company Indian equity demo portfolio.
 
+**Deployed on -** https://finn-cb88.onrender.com/
+
 **Demo portfolio — hypothetical holdings, real market data.** This is a research prototype, not investment advice or a trading service.
 
 ## Features
