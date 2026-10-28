@@ -42,8 +42,6 @@ Open [FINN locally](http://127.0.0.1:3000). Restart the backend after editing it
 
 **Free hosting limitations:** Render sleeps idle services and erases local state on sleep, restart or redeploy. Saved thresholds, source indexes, caches and AI request counters therefore reset. Cold starts and PDF processing can be slow; large reports can exceed free-instance memory. This is a public demo deployment, not durable production infrastructure. The app has shared settings and no user accounts. All visitors share AI quota; the deployment limits Gemini to 60 attempts per day, but counters also reset when ephemeral storage is lost. Use an unbilled Gemini project to avoid API charges.
 
-Deployment status and public/repository URLs must be recorded only after actual publication; none are assumed by this configuration.
-
 ## Configuration
 
 | Variable | Purpose |
