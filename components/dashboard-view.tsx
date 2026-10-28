@@ -309,7 +309,7 @@ export function DashboardView() {
             Explore AI Research <ArrowRight size={17} />
           </Link>
           <div className="promo-disclaimer">
-            Preview workspace · AI integration coming later
+            Preview workspace
           </div>
         </section>
       </div>
